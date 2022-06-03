@@ -1,6 +1,6 @@
 ## Folder Structure & McOsu Configuration
 Whether windows, linux  or macos, McOsu's folder sturcture is same.
-![](./img/Pasted image 20220604063316.png)
+![](/img/Pasted image 20220604063316.png)
 1. Create folders with picture, you have to create an osu folder, of course you can take other names.
 2. Inside this folder, create  "Songs" folder and "Skins" folder for osu to read, These two folder names cannot be changed.
 ![](./img/Pasted image 20220604064102.png)
